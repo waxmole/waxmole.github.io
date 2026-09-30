@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+title: Just the Games Template
+description: Test Scry site
+theme: just-the-docs
+
+url: https://waxmole.github.io/just-the-games
+
+aux_links:
+  Template Repository: https://github.com/waxmole/just-the-games
